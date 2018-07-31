@@ -1,2 +1,3 @@
 Hello, This is just a Dummy Project
+I am currently writing this text in the Dummy Branch of my Master Branch
 This, is the line that's been updated
