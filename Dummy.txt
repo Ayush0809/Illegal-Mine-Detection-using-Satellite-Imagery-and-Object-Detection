@@ -3,3 +3,5 @@ I am currently writing this text in the Dummy Branch of my Master Branch
 This line has been added after Final_Branch branch of this Master branch was created and edited
 This, is the line that's been updated
 
+Kaneki Ken is the Protagonist of Tokyo Ghoul. He was just a simple student until something terrible happens and he gets converted into
+a One-Eyed Ghoul which is very Rare and Powerful
