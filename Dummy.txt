@@ -1,4 +1,5 @@
 Hello, This is just a Dummy Project
 I am currently writing this text in the Dummy Branch of my Master Branch
-This, is the line that's been updated
 This line has been added after Final_Branch branch of this Master branch was created and edited
+This, is the line that's been updated
+
